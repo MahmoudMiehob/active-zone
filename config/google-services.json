@@ -1,0 +1,77 @@
+{
+
+    "type": "service_account",
+    "private_key_id": "73c77bdf7b2c9359f3bfcc1684b5dc23e04a217b",
+    "project_id": "activezone-171ee",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCbTGJncQluvud8\nJ02qojrtvyLWIiapLXJp6Dyw/IZ/MJlinNPvS/wjW5lX5HWVgL08rVN4LF88De4G\nbnj7ScQEcluskyhwWkvCl3JcH/bdNeYhW0CVXHAHUJhDvWFTiIj5zF6iTAMCvhIe\nhKeUBJNmIr/beGhwG9H8+uG1VMu/b8PXsrRyXTuFR/MKKcVoVZwfmYeMQHhy0E4y\nvhaZuej9Vj8HzVJho6wzmv+Gh4Qf0nsj+KXtDND6DiG1M/2CF5ZdKc+idOFmwhXX\nNOIYLxNjquGcy7JVSdfaGez5npQPLaZQF6YAeZ5LCCuTCfyw9l+X3vAjwALaX0ES\noQs4gqjlAgMBAAECggEAC8SfB4p0r4d+qe7RUnPWr7tpjvzctyDL6CPPRye4cJzx\nkpwI7bvXttb/6L28MOcMVmbzMBd7FzIeOy7vf5zlLxatxO1ynzwiCSd9MZpbR507\nYh20tPZhp69yY/e1QovSU80qNdw5G8hLCs4vykykES8WIMugBmOYgJyDGNpjHvXh\nkp/+S+zS0RnKdwJwTB4oZKk3rB+cAb2KXeYhrPvmLsD3xeeO67oicz1FkiUBH45z\nHZdkO7QT1C70SjHuyVQy7HQwgM7Xq2w63B0Ua2ikDrWLGjA1kSiigbhbfCExYSS4\n92bQl4SJIZS+jgHqsPeQR+EikryXQ8CsiDVXhrVHpQKBgQDJlqXdguXSpWZAhSu1\nBAYuWaRtjat3v5X6CYcJ5S6lajbgW2j0fgAQl7zkT0f08cN9cKNsPmBfTXcrho+a\nPWebhdt98qqC5fMJcKEz3gbcJEMETwZSBM41NX55RGduSFuHWAtgtw1VYLMI1EgE\nVIK4Ed+28xs2Tj3IvQswYVRM/wKBgQDFNy9+mIoK0rc7xb4GZ2vDsXtY9XQo3ogB\nu6N3uWaye9Cbhx2hcbl0i/ldV2KGul1Upn3n9nmUWlRbdPlEt664J7yAQXV+6dlf\n3vIXAqWG11Gqx428s4HpGg1NOkSwWj6ASTo4po3fDKZOqBfi1IakcuxX+Jd/20LE\nGJQ/+d92GwKBgQC7xXRISaYzONdu39yfZtkvEVbEqQJ/r1hOp9M+F1kEwVPOVbcE\njd0Xl49eBq8a7JtQW7wNlmiEPQ703wkh/XJlfiC+R2wmM3TXZS7ytiwjoC9Acy+K\n9GjzTRm6cUn6grGm9w7aDof/7+u0HK/cQK/mLtf4fKfrRKPuOJCUhwRUFwKBgQCS\nnY5PnXOyzCiw5Td6Z1S0bbP31LMA1z9hmm/SyCDTPD1AAtlCdtubC5zdieOTqeVM\n02HzG0gTxHvGalYOgkgAXHpFF2UUbyHNpl9wP+VzM4xhXG3BBerksxuEeHcsbEre\n8JG6IAiE9FCHVWw8lCdtBosyc3ud8BHY2zULwuYgVQKBgDFxjvqv9rWsL5DgPueB\nHISpUq2SaSYBVEj8IR7V/qIhmc1jktSShHbtJI6npxeGGb6vaCxU3Us9i20IiclL\nK9FQrHm1BV5XF51Vg9gLLmqTpvPrZUNG37zl6Gt9BvMItfvGOClfcUMpGVzq3MNW\nwm3q81970Bic1bWyOhbO1+Se\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-42y7l@activezone-171ee.iam.gserviceaccount.com",
+    "client_id": "101127384744784562127",
+
+
+    "project_info": {
+        "project_number": "134517815328",
+        "project_id": "activezone-171ee",
+        "storage_bucket": "activezone-171ee.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:134517815328:android:bdf17fef9a6b00ce706445",
+                "android_client_info": {
+                    "package_name": "com.dev.desktop.fosha"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "134517815328-kon0fim2q1cqplep06llbd9hcqn71k35.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyCgsfywj4nKfE3tiRc8HdYRlxO0GcUSGwU"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "134517815328-kon0fim2q1cqplep06llbd9hcqn71k35.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:134517815328:android:a193c34f50caa156706445",
+                "android_client_info": {
+                    "package_name": "com.reservations.reservations"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "134517815328-kon0fim2q1cqplep06llbd9hcqn71k35.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyCgsfywj4nKfE3tiRc8HdYRlxO0GcUSGwU"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "134517815328-kon0fim2q1cqplep06llbd9hcqn71k35.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
